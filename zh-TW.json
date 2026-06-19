@@ -214,8 +214,8 @@
         "exposedcoredsc": "某種活物的殘骸。或許可食，內含的能量能轉換為水分和營養。<i>其形態看似正在改變...</i>",
         "foliage": "植物纖維",
         "foliagedsc": "平凡的外星植物枝葉。難以下嚥且易引起腸胃不適，常用於合成物品。",
-        "foliagemeal": "枝葉飯",
-        "foliagemealdsc": "不錯的即食食品，由清脆的葉片和簡易餡料製成。易變質且不含脂肪，但非常有飽足感。",
+        "foliagemeal": "枝葉餐",
+        "foliagemealdsc": "用清脆的葉片裹著簡易餡料製成的料理。易變質且不含脂肪，但非常有飽足感。",
         "dryfoliage": "乾燥植物纖維",
         "dryfoliagedsc": "乾燥後看起來比較能入口，仍可能引發腸胃不適。",
         "glowplantfruit": "螢光果",
@@ -1355,7 +1355,7 @@
         "soapdsc": "用動物脂肪製成的肥皂。在醫療面板中使用可清理身體，能將傷口輕微消毒。",
         "producejuice": "自製果汁",
         "producejuicedsc": "由一堆水果蔬菜和其他東西混合後搗碎，再加水混合製成。味道很...特別。",
-        "refinedjuice": "綜合果汁",
+        "refinedjuice": "精製果汁",
         "refinedjuicedsc": "煮熟並充分混合、搗碎製成的果汁。非常好喝又營養豐富！",
         "liquiddescription": "蹲下不動可飲用",
         "Head": "頭部",
@@ -1441,7 +1441,7 @@
         "runsetxpgain": "經驗值獲取量",
         "runsetxpgaindsc": "獲取經驗值的倍率",
         "runsetmetabolismrate": "代謝速率",
-        "runsetmetabolismratedsc": "飢餓值/口渴值/反胃值/體重降低的速度。",
+        "runsetmetabolismratedsc": "飢餓值/口渴值/噁心值/體重降低的速度。",
         "runsethealingrate": "痊癒速率",
         "runsethealingratedsc": "受傷後復原的速度。影響肌肉/皮膚癒合、血栓、造血、骨折、脫臼與腦損傷。",
         "runsetfracturepain": "骨折疼痛程度",
@@ -4579,7 +4579,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "我過得挺不錯的\n肚子裡裝著美味的食物 偶爾還能嗑上幾根蘑鬚樹尾就夠開心了\n賣東西給我的倖存者們也對我笑眯眯的！\n我就是受不了看見自己流血 很嚇人",
+                "Item1": "我過得挺不錯的\n肚子裡裝著美味的食物 偶爾還能嗑上幾根酣睡尾就夠開心了\n賣東西給我的倖存者們也對我笑眯眯的！\n我就是受不了看見自己流血 很嚇人",
                 "Item2": "",
                 "Item3": "experiment"
             },
